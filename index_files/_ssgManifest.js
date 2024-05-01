@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcraft\u002Fimage-blur","\u002Fcraft\u002Finput","\u002Fwriting","\u002Fwriting\u002F[post]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
